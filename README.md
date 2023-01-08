@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there Welcome to my github page 👋
+My name is jahisradipta and I'm it enthusiast, I hope I can work with you. ✌
 
-<!--
-**Jradip/jradip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### what do i usually use?
+<p>
+<img alt ="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
 
-Here are some ideas to get you started:
+<img alt ="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt ="Lua" src="https://img.shields.io/badge/Lua-2C2D72?logo=Lua&logoColor=white&style=for-the-badge"/>
+
+<img alt ="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge"/>
+
+<img alt ="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge"/>
+</p>
+
+### My social media platform
+<p>
+<a href="https://www.youtube.com/channel/UCtGTXim-yovJM2eAiC--pbQ">
+  <img alt ="YouTube" src="https://img.shields.io/badge/youtube-FF0000?logo=YouTube&logoColor=white&style=for-the-badge"/>
+</a>
+<p>
+
+
+
