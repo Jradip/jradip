@@ -16,7 +16,7 @@ My name is jahisradipta and I'm it enthusiast, I hope I can work with you. ✌
 
 ### My social media platform
 <p>
-<a href="https://www.youtube.com/channel/UCtGTXim-yovJM2eAiC--pbQ">
+<a href="https://www.youtube.com/@JahisFRadipta">
   <img alt ="YouTube" src="https://img.shields.io/badge/youtube-FF0000?logo=YouTube&logoColor=white&style=for-the-badge"/>
 </a>
 <p>
